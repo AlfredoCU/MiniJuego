@@ -1,2 +1,3 @@
-# MiniJuego
-onocer la interfaz gráfica de Unity.
+# MiniJuego.
+
+- Conocer la interfaz gráfica de Unity.
